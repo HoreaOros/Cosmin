@@ -15,5 +15,17 @@ namespace Bars
             }
             Console.WriteLine("+");
         }
+
+        public int Length
+        {
+            get
+            {
+                return v;
+            }
+            //set
+            //{
+            //    v = value;
+            //}
+        }
     }
 }
