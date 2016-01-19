@@ -13,5 +13,12 @@
             }
             
         }
+        public int Length
+        {
+            get
+            {
+                return v;
+            }
+        }
     }
 }

@@ -14,6 +14,8 @@ namespace Bars
             VertBar v = new VertBar(3);
             Frame f = new Frame(3, 2);
             Ladder d = new Ladder(10, 2, 3);
+
+
         }
     }
 }
