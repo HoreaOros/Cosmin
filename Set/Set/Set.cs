@@ -79,8 +79,7 @@ namespace SetN
         }
         public int Size
         {
-            get
-            {
+            get {
                 return count;
             }
         }
